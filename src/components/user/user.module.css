@@ -1,0 +1,12 @@
+.user{
+    margin-bottom: 20px;
+    background: rgb(63, 18, 122);
+    color: white;
+    display: inline-block;
+    padding: 10px 30px;
+    border: rgb(91, 209, 209);
+    margin-top: 20px;
+    font-size: 18px;
+    border-radius: 7px;
+    width: 50%;
+}
